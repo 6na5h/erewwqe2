@@ -1,6 +1,6 @@
 token=NTE2MjkwMzE5MjY5MjMyNjY1.DtxtCw.xinxe24gw3uuuzX0BoV5SH_zbCk
 owner=465811762386567168
-prefix= 2
-game= 2play
+prefix= Gu
+game= Guplay
 stayinchannel=true
 songinstatus=true 
